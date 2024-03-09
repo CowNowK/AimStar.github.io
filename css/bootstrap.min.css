@@ -17,18 +17,19 @@
   .logo-col {
     display: none;
   }
-}
-.search-form-col {
-  display: none;
-}
-.menu-trigger-col {
-  display: none; 
-}
-.menu-trigger {
-  display: none;
-}
-.menu-section {
-  display: none;
+
+  .search-form-col {
+    display: none;
+  }
+  .menu-trigger-col {
+    display: none; 
+  }
+  .menu-trigger {
+    display: none;
+  }
+  .menu-section {
+    display: none;
+  }
 }
 html {
     font-family: sans-serif;
